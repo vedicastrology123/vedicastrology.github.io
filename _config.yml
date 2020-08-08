@@ -3,6 +3,7 @@ remote_theme: fongandrew/hydeout
 title: Vedic Astrology
 tagline: Vedic Astrology
 paginate: 5
+hyde_theme: theme-base-0d
 author:
   name: Steve Hora
   email: blah@email.test
