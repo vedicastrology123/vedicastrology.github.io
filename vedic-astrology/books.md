@@ -1,12 +1,12 @@
-## Books
+## Books by B.V. Raman on Amazon
 
-* {{< amazon asin="B0073U9LF0" affiliate="stevehora05-21" title="Astrology For Beginners" >}}
-* {{< amazon asin="8120808479" affiliate="stevehora05-21" title="How to Judge a Horoscope: I to VI Houses - Vol.1" >}}
-* {{< amazon asin="8120808487" affiliate="stevehora05-21" title="How to Judge a Horoscope: 2" >}}
-* {{< amazon asin="8185273545" affiliate="stevehora05-21" title="Hindu Predictive Astrology" >}}
-* {{< amazon asin="8185273731" affiliate="stevehora05-21" title="My Experiences in Astrology" >}}
-* {{< amazon asin="8120808509" affiliate="stevehora05-21" title="Three Hundred Important Combinations" >}}
-* {{< amazon asin="8185674264" affiliate="stevehora05-21" title="Graha and Bhava Balas" >}}
+* Astrology For Beginners
+* How to Judge a Horoscope: I to VI Houses - Vol.1
+* How to Judge a Horoscope: 2
+* Hindu Predictive Astrology
+* My Experiences in Astrology
+* Three Hundred Important Combinations
+* Graha and Bhava Balas
 
 ###### Reach me at 'vedicastrology123 at gmail dot com'.
 
