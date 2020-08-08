@@ -8,3 +8,11 @@ Welcome to our Github pages on "Vedic Astrology".
   <br></br>
 You can learn free.
 </p>
+
+Leave your comments for improvements.
+{% if page.comments != false %}
+  <section class="comments">
+    <h2>Your Comments</h2>
+    {% include /_includes/utterances.html %}
+  </section>
+{% endif %}
