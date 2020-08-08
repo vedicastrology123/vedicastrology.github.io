@@ -1,3 +1,8 @@
+---
+layout: page
+title: Nadi
+sidebar_link: true
+---
 ## Nadi Astrology (Tamil Palm Leaf Reading)
 
 Nadi - Tamil Palm Leaf horoscope reading is a mystery and one of Life wonders.
