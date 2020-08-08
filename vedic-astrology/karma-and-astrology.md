@@ -1,3 +1,8 @@
+---
+layout: page
+title: Karma
+sidebar_link: true
+---
 ## Enrich and Optimize your life with Vedic Astrology ( Jyotish )
 
 Karma plays an important role in one's destiny or fate. Free Will has its part also. Read more below ...
