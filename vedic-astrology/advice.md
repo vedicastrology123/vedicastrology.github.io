@@ -1,24 +1,3 @@
----
-title: "Vedic Astrology Advice"
-date: 2020-04-07T12:52:36+06:00
-image: "images/vaashicon.png"
-author: Steve Hora
-description : "Vedic Astrology Jyotish Steve Hora Natal Mundane Astrology Horoscope Reading Predictions"
-type: "post"
-categories: 
-  - "Astrology Advice"
-  - "Stocks Analysis"  
-tags:
-  - "Predictions"
-  - "Astrology"
-lead: Vedic Astrology Advice by Steve Hora
-lastmod: latest 
-keywords:
-  - "Vedic Astrology Advice"
-path:
-  - "https://stevehora.com/vedic-astrology/advice/"
----
-
 ## How to get Vedic Astrology Advice from us?
 
 Please send your queries to "vedicastrology123 at gmail dot com".
