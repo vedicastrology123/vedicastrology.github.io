@@ -1,6 +1,10 @@
-## Nakshatras
+---
+layout: page
+title: Nakshatras
+sidebar_link: true
+---
 
-What are the names of the 27 Nakshatras or star constellations?
+What are the names of the 27 Nakshatras or Star Constellations?
 
 The names of the 27 Nakshatras and it lords are:
 Ketu, Shukra, Surya, Chandra, Kuja, Rahu, Guru, Shani and Budha rules the first below set
