@@ -1,3 +1,9 @@
+---
+layout: page
+title: Books
+sidebar_link: true
+---
+
 ## Books by B.V. Raman on Amazon
 
 * Astrology For Beginners
