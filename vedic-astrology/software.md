@@ -1,6 +1,9 @@
-## Vedic Astrology Software
-
-Recommended by Steve Hora – Jyotish Guru
+---
+layout: page
+title: Software : Birth Chart
+sidebar_link: true
+---
+#### Recommended by Steve Hora – Jyotish Guru
 
 [Jagannatha Hora is the best Free Vedic Astrology software](https://www.vedicastrologer.org/jh/).
 
