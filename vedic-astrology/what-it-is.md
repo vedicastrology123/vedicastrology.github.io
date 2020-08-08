@@ -1,6 +1,10 @@
-## What is Vedic Astrology
+---
+layout: page
+title: What it is
+sidebar_link: true
+---
 
-Vedic astrology is one of the vedangas of the Vedas, the ancient Hindu scriptures. The vedangas are the six sciences that are studied in order to practice and understand Vedic teachings.
+**Vedic Astrology** is one of the vedangas of the Vedas, the ancient Hindu scriptures. The vedangas are the six sciences that are studied in order to practice and understand Vedic teachings.
 
 In Vedic astrology, a person's destiny is determined by his/her karma, which is set forth in the cosmic design.
 
