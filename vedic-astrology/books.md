@@ -4,7 +4,7 @@ title: Books
 sidebar_link: true
 ---
 
-## Books by B.V. Raman on Amazon
+## by B.V. Raman on Amazon
 
 * Astrology For Beginners
 * How to Judge a Horoscope: I to VI Houses - Vol.1
