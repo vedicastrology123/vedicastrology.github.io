@@ -8,15 +8,15 @@ sidebar_link: true
 
 Please send your queries to "vedicastrology123 at gmail dot com".
 
-Our site provides [Free Vedic Astrology Birth Chart](#birth-chart).
+Our site provides [Free Vedic Astrology Birth Chart](https://stevehora.com/calculate-your-vedic-astrology-chart/).
 
-[Matrimony or Marriage Matching](#matrimony-or-marriage-matching).
+[Matrimony or Marriage Matching](https://stevehora.com/blog/marriage-compatibility/).
 
-[Stock Analysis and Vedic Astrology](#stock-analysis-and-vedic-astrology).
+[Stock Analysis and Vedic Astrology](https://stevehora.com/blog/gann-w-d/).
 
-Know more about the connection of [Free Will, Karma and Vedic Astrology](/blog/karma-and-astrology/).
+Know more about the connection of [Free Will, Karma and Vedic Astrology](https://stevehora.com/blog/blog/karma-and-astrology/).
 
-Worldly prediction are made using [Mundane Astrology](#mundane-astrology-predictions).
+Worldly prediction are made using [Mundane Astrology](https://stevehora.com/categories/mundane-astrology).
 
 ### Astrology - Western and Vedic differences
 
@@ -26,26 +26,26 @@ In Vedic astrology, a master astrologer, known as a Jyotish Acharaya, uses a var
 
 #### Birth Chart
 
-[Click here to get your Birth Chart](/calculate-your-vedic-astrology-chart/).
+[Click here to get your Birth Chart](https://stevehora.com/calculate-your-vedic-astrology-chart/).
 Birth Chart is also called by different names like Vedic Astrology chart, Jathakam, Janam Kundli, Natal Chart, Birth Horoscope, Rash chart and Sidereal Birth chart.
 
-The chart is prepared with Ayanamsa or Precession of Equinox. [Ayanamsa or Precession of Equinox can be calculated scientifically](/blog/ayanamsa).
+The chart is prepared with Ayanamsa or Precession of Equinox. [Ayanamsa or Precession of Equinox can be calculated scientifically](https://stevehora.com/blog/ayanamsa/).
 
-[Birth Chart Predictions](/blog/birth-chart/) is given using Parasara methodology.
+[Birth Chart Predictions](https://stevehora.com/blog/birth-chart/) is given using Parasara methodology.
 
 Birth Chart or vedic chart (Sidereal) horoscope is made according to True Lahiri Ayanamsa (Chitra paksha), using sidereal solar years of 360.
 Birth chart analysis is as per Parasara system and Timing using Vimshottari Dasha system and Samaya Amsa or Kaala or Naadi timing technique.
 
 #### Matrimony or Marriage Matching
 
-[Matrimony Matching or Marriage Matching](/blog/marriage-compatibility/) is done using the Birth Charts of the couple. Matrimony compatibility and Conjugal bliss are read from the birth charts.
+[Matrimony Matching or Marriage Matching](https://stevehora.com/blog/marriage-compatibility/) is done using the Birth Charts of the couple. Matrimony compatibility and Conjugal bliss are read from the birth charts.
 
 #### Mundane Astrology predictions
 
-[Predictions for August 2020.](/blog/august-2020/)
+[Predictions for August 2020.](https://stevehora.com/blog/august-2020/)
 
 #### Stock Analysis and Vedic Astrology
 
-If you want to explore the secrets of Vedic Astrology, read [W.D.Gann and Vedic Astrology for Stock Analysis.](/blog/gann-w-d/)
+If you want to explore the secrets of Vedic Astrology, read [W.D.Gann and Vedic Astrology for Stock Analysis.](https://stevehora.com/blog/gann-w-d/)
 
-[Vedic Astrology Birth Chart Predictions from Steve Hora](/steve-hora/), Vedic Astrologer or Jyotish, can be reached at 'vedicastrology123 at gmail dot com' for further details.
+[Vedic Astrology Birth Chart Predictions from Steve Hora](https://stevehora.com/steve-hora/), Vedic Astrologer or Jyotish, can be reached at 'vedicastrology123 at gmail dot com' for further details.
