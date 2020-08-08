@@ -2,6 +2,7 @@ markdown: kramdown
 remote_theme: fongandrew/hydeout
 title: Vedic Astrology
 tagline: Vedic Astrology
+paginate: 5
 author:
   name: Steve Hora
   email: blah@email.test
