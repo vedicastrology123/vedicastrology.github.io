@@ -13,6 +13,13 @@ Leave your comments for improvements.
 {% if page.comments != false %}
   <section class="comments">
     <h2>Your Comments</h2>
-    {% include _includes/utterances.html %}
+    <script src="https://utteranc.es/client.js"
+			repo="astrology123/discuss"
+			issue-term="pathname"
+			label="Comment"
+			theme="github-light"
+			crossorigin="anonymous"
+			async>
+	</script>
   </section>
 {% endif %}
