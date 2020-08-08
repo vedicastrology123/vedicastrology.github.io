@@ -1,3 +1,3 @@
 # Table of Contents
 
-* TOC {:toc} Home
+* [Home](index)
