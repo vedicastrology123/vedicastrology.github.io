@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What it is
+title: What is Vedic Astrology?
 sidebar_link: true
 ---
 
