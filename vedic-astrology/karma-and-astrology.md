@@ -24,7 +24,7 @@ Birth chart analysis is as per Parasara system and Timing using Vimshottari Dash
 
 ** With your accurate Date of Birth, Place and Time - a horoscope is made using pure astronomical data of planets.
 
-A horoscope has 12 houses or parts which govern different aspects of your life. You can read about that at [12 Houses of Vedic Astrology](/blog/vedic-astrology-meaning/).
+A horoscope has 12 houses or parts which govern different aspects of your life. You can read about that at [12 Houses of Vedic Astrology](https://stevehora.com/blog/vedic-astrology-meaning/).
 
 Each house significance can be enriched by knowing its strength, weakness, life events for that house and its good and bad time.
 
