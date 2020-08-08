@@ -1,3 +1,9 @@
+---
+layout: page
+title: Advice
+sidebar_link: true
+---
+
 ## How to get Vedic Astrology Advice from us?
 
 Please send your queries to "vedicastrology123 at gmail dot com".
