@@ -1,5 +1,8 @@
-## NavaGraha
-
+---
+layout: page
+title: NavaGraha or 9 Planets
+sidebar_link: true
+---
 ### What are the names of the 9 main Grahas or planets?
 
 The 9 planets are: Soorya, Chandra, Mangala, Budha, Guru, Shukra, Shani, Rahu and Ketu.
