@@ -2,7 +2,6 @@ markdown: kramdown
 remote_theme: fongandrew/hydeout
 title: Vedic Astrology
 tagline: Birth Chart Predictions from Steve Hora
-paginate: 5
 author:
   name: Steve Hora
   url: https://stevehora.com
@@ -10,8 +9,11 @@ author:
   twitter: AstrologyOrbit
 description: 'by <a href="https://stevehora.com" target="_blank">Steve Hora</a>.'
 url: https://stevehora.com
-sidebar_home_link:  false
-sidebar_blog_link:  'https://stevehora.com/blog/'
+sidebar_home_link:  true
+paginate: 5
+paginate_path: '/vedic-astrology/page:num'
+sidebar_blog_link: '/vedic-astrology'
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
