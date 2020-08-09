@@ -3,13 +3,11 @@ layout: page
 title: NavaGraha or 9 Planets
 sidebar_link: true
 ---
-### What are the names of the 9 main Grahas or planets?
+### What are the names of the 9 main Grahas or Planets?
 
-The 9 planets are: Soorya, Chandra, Mangala, Budha, Guru, Shukra, Shani, Rahu and Ketu.
+The 9 planets are: **Soorya (Sun), Chandra (Moon), Mangala or Kuja or Sevvai (Mars), Budha (Mercury), Guru (Jupiter), Shukra (Venus), Shani (Saturn), Rahu (Dragon Head) and Ketu (Dragon Tail)**.
 
-###### Reach me at 'vedicastrology123 at gmail dot com'.
-
-You can write to us to know more about Vedic Astrology and listed below
+###### Reach us at 'vedicastrology123 at gmail dot com', to us to know more on subjects listed below
 
 * Vedic Astrology books pdf and articles
 * Vedic Astrology apps, ebooks and education
