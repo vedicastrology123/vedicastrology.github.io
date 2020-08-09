@@ -1,4 +1,8 @@
-## How is your Rashi determined?
+---
+layout: page
+title: Find your Rashi
+sidebar_link: true
+---
 
 The zodiac sign in which the planet Moon is situated at the time of your birth becomes **your Rashi or Moon Sign**.
 
