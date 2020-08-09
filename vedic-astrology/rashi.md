@@ -1,20 +1,25 @@
+---
+layout: page
+title: NavaGraha or 9 Planets
+sidebar_link: true
+---
 ## What are the names of the 12 zodiac or Rashi or signs?
 
-The 12 zodiac signs are: Mesha, Vrishabha, Mithuna, Karkataka, Simha, Kanya, Tula, Vrischika, Dhanu, Makara, Kumbha and Meena.
+The 12 zodiac signs are: **Mesha (Aries), Vrishabha (Taurus), Mithuna (Gemini), Karkataka (Cancer), Simha (Leo), Kanya (Virgo), Tula (Libra), Vrischika (Scorpion), Dhanu (Sagittarius), Makara (Capricorn), Kumbha (Aquarius) and Meena (Pisces).
 
-Mesha and Vrischika is governed by Kuja.
+Mesha and Vrischika is governed by **Kuja**.
 
-Vrishabha and Tula are governed by Shukra.
+Vrishabha and Tula are governed by **Shukra**.
 
-Mithuna and Kany are governed by Budha.
+Mithuna and Kany are governed by **Budha**.
 
-Karkataka is governed by Chandra.
+Karkataka is governed by **Chandra**.
 
-Simha by Surya.
+Simha by **Surya**.
 
-Dhanur and Meena by Guru.
+Dhanur and Meena by **Guru**.
 
-Makara and Kumbha are governed by Shani.
+Makara and Kumbha are governed by **Shani**.
 
 Rahu and Ketu grahas do not own any house or rashi.
 
@@ -22,27 +27,10 @@ Each Rashi is divided into Nakshatras.
 
 What are the names of the 27 Nakshatras or star constellations?
 
-The names of the 27 Nakshatras and it lords are:
-Ketu, Shukra, Surya, Chandra, Kuja, Rahu, Guru, Shani and Budha rules the first below set
-Ashwini, Bharani, Krittika, Rohini, Mrigasira, Arudra, Punarvasu, Pushyami, Ashlesha covering from Mesha till Karataka Rashi.
+The names of the 27 Nakshatras are
 
-another set in same order
-Magha, Poorvaphalguni, Uttaraphalguni, Hasta, Chitra, Swati, Visakha, Anuradha, Jyestha covering from Simha till Vrishika Rashi.
+**Ashwini, Bharani, Krittika, Rohini, Mrigasira, Arudra, Punarvasu, Pushyami, Ashlesha** covering from Mesha till Karataka Rashi.
 
-and the last set in same order
-Moola, Poorvashadha, Uttarashadha, Shravana, Dhanistha, Shatabhistha, Poorvabhadra, Uttarabhadra and Revati from Dhanur till Meena Rashi.
+**Magha, Poorvaphalguni, Uttaraphalguni, Hasta, Chitra, Swati, Visakha, Anuradha, Jyestha** covering from Simha till Vrishika Rashi.
 
-The Vimshottari Dasha allocated to the above nakshatra lords are
-7, 20, 6, 10, 7, 18, 16, 19, 17 solar years as per Surya Siddhanta.
-
-Nakshatras are divided into 4 equal parts called Padas.
-
-Every Pada is distributed to each house in a cyclic fashion, to create Navamsa chart.
-
-Navamsa chart is a very important chart for delineating the karmic effects.
-
-Each nakshatra lord gives a mental character to a person. Based on that the person's attitude can be gaged.
-
-This helps in Matrimony matching or marriage and love matching for conjugal happiness.
-
-Nakshatras also help in conducting good auspicious ceremonies. These are enumerated in Hindu Calendar or Panchang.
+**Moola, Poorvashadha, Uttarashadha, Shravana, Dhanistha, Shatabhistha, Poorvabhadra, Uttarabhadra and Revati** from Dhanur till Meena Rashi.
