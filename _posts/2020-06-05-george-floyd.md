@@ -1,7 +1,7 @@
 ---
 title: "George Floyd"
 date: 2020-06-02T12:52:36+06:00
-image: images/blog/george-floyd.jpg
+image: img/george-floyd.jpg
 author: Steve Hora
 description : "Vedic Astrology - Jyotish Steve Hora Natal Mundane Astrology Horoscope Reading Predictions George Floyd"
 type: "featured"
@@ -24,7 +24,7 @@ keywords:
 ## George Floyd Killing
 - A Mundane Astrological Analysis using House and Nakshatra system of Vedic Astrology
 
-![GeorgeFloyd](/images/blog/georgefloyd.png)
+![GeorgeFloyd](/img/georgefloyd.png)
 
 The time line of events that led to Mr. George Floyd's death was taken from below url.
 
