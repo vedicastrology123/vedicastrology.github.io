@@ -1,17 +1,8 @@
-## What is Vedic Astrology
-
-Vedic Astrology is one of the Vedas, the ancient Hindu scriptures. In Vedic astrology, a person's destiny is determined by his/her karma, which is set forth in the cosmic design.
-
-Vedic and Western astrology have some similarities, including the 12 signs of the zodiac, but Vedic astrology emphasizes the rising sign at the precise moment of birth rather than the 30-day sun sign.
-
-In Vedic astrology, a master astrologer, known as a Jyotish, uses a variety of charts to further detailed reading an individual's horoscope.
-
-Vedic (Sidereal) horoscope is made according to Precession ( True Lahiri Ayanamsa - Chitra paksha), using sidereal solar years of 360.
-Birth chart analysis is as per Parasara system and Timing using Vimshottari Dasha system and Samaya Amsa or Kaala or Naadi timing technique.
-
-## What The 12 Houses Of A Horoscope Signify?
-
-### The 12 houses significance are as below
+---
+layout: page
+title: 12 Houses & Significance
+sidebar_link: true
+---
 
 #### 1st house:
 Your physical appearance, body, complexion, intelligence, strengths  weaknesses, the head
