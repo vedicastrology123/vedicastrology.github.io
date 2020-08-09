@@ -1,6 +1,6 @@
-## How is your Rasi determined?
+## How is your Rashi determined?
 
-The zodiac sign in which the planet Moon is situated at the time of your birth becomes your rasi or moon sign.
+The zodiac sign in which the planet Moon is situated at the time of your birth becomes **your Rashi or Moon Sign**.
 
 This signifies your Mind, how you perceive the events that happen in your life, as it unfold by time.
 
