@@ -1,9 +1,9 @@
 ---
 layout: page
-title: NavaGraha or 9 Planets
+title: Moon Sign or Rashi
 sidebar_link: true
 ---
-## What are the names of the 12 zodiac or Rashi or signs?
+## What are the names of the 12 Zodiac or Rashi or Moon Signs?
 
 The 12 zodiac signs are: **Mesha (Aries), Vrishabha (Taurus), Mithuna (Gemini), Karkataka (Cancer), Simha (Leo), Kanya (Virgo), Tula (Libra), Vrischika (Scorpion), Dhanu (Sagittarius), Makara (Capricorn), Kumbha (Aquarius) and Meena (Pisces).
 
