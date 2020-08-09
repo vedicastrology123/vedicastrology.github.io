@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Advice
-sidebar_link: true
+sidebar_link: false
 ---
 
 ## How to get Vedic Astrology Advice from us?
