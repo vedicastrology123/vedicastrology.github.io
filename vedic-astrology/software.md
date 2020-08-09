@@ -3,15 +3,12 @@ layout: page
 title: Best Software
 sidebar_link: true
 ---
-#### Recommended by Steve Hora – Jyotish Guru
 
-[Jagannatha Hora is the best Free Vedic Astrology software](https://www.vedicastrologer.org/jh/).
+**[Jagannatha Hora is the best Free Vedic Astrology software]**(https://www.vedicastrologer.org/jh/).
 
-I use it for my research and accurate predictions.
+**Recommended by Steve Hora, Vedic Astrologer**, Researcher and Subject Matter Expert (SME) on Vedic, Naadi and Mundane Astrology.
 
-### Steve Hora, Vedic Astrologer, Researcher and Subject Matter Expert (SME) on Vedic, Naadi and Mundane Astrology.
-
-Reach me at 'vedicastrology123 at gmail dot com' and [Vedic Astrology - Jyotish](https://stevehora.com) .
+I use it for my research and accurate predictions. Reach me at 'vedicastrology123 at gmail dot com' and [Vedic Astrology - Jyotish](https://stevehora.com) .
 
 I am a born astrologer, as per Sri Vaithiswara Agasthiya Koushiha Nadi Grantha in Tamil.
 In my palm-leaf reading, one of my profession is mentioned as below
