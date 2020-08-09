@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software : Birth Chart
+title: Best Software
 sidebar_link: true
 ---
 #### Recommended by Steve Hora – Jyotish Guru
