@@ -20,11 +20,11 @@ keywords:
 
 ## When the Coronavirus Pandemic will end in USA and will solve it?
 
-![USA Independence Birth data](//assets/img/blog/usa-independence1.png)
+![USA Independence Birth data](/assets/img/blog/usa-independence1.png)
 
 Below is the Sidereal (Vedic) Horoscope of USA declaration of Independence.
 
-![USA Independence Horoscope](//assets/img/blog/usa-country-independence.png)
+![USA Independence Horoscope](/assets/img/blog/usa-country-independence.png)
 
 In mundane astrology, when dealing with countries, it is very important to see, the 1st lord, its children 5th house (People), Relationship 7th house, 6th house of Diseases and 8th from 6th for Cure (Vaccine).
 
@@ -47,7 +47,7 @@ Democratic countries ruled by Saturn will help out America. Saturn is looking at
 
 8th from 6th is the cure (a vaccine), which will be available by Sep 20 and by Nov 20th, 2020.
 
-![USA Independence Horoscope](//assets/img/blog/time-for-cure.png)
+![USA Independence Horoscope](/assets/img/blog/time-for-cure.png)
 
 ### More ...
 

@@ -31,7 +31,7 @@ The Vedic horoscope is made according to Lahiri Ayanamsa (Chitra paksha), using 
 
 I proceed to read the horoscope as per Parasara system and Timing using Vimshottari Dasha system and Samaya Amsa or Kaala timing technique.
 
-![Mahatma Gandhi](//assets/img/blog/mahatma-gandhi.png)
+![Mahatma Gandhi](/assets/img/blog/mahatma-gandhi.png)
 
 Lagna lord Shukra is in his own house, namely Thula, creating a Malavya Yoga.
 

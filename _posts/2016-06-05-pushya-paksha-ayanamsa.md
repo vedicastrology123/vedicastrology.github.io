@@ -21,7 +21,7 @@ keywords:
 
 ## Great Astrologer PVR Narasimha Rao, his free and best Jagannatha Hora software and his Pushya-paksha Ayanamsa
 
-![Pushya Paksha Ayanamsa ](//assets/img/blog/ayan.jpg)
+![Pushya Paksha Ayanamsa ](/assets/img/blog/ayan.jpg)
 
 
 ### Jagannatha Hora

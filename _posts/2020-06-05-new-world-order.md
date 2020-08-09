@@ -34,7 +34,7 @@ From this chart one can read the predictions for the People of China.
 ### Chart Analysis and Mundane Predictions
 
 
-![Metal Rat](//assets/img/blog/metalratyear2020.png)
+![Metal Rat](/assets/img/blog/metalratyear2020.png)
 
 
 The Vedic horoscope is made according to Lahiri Ayanamsa (Chitra paksha), using sidereal solar years of 360, Vimshottari Dasha.

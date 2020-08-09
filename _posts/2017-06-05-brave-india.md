@@ -36,7 +36,7 @@ The event started at 7 PM on June 15th 2020 and ended around 11 PM on the same n
 
 Below is the Mundane Vedic horoscope.
 
-![Brave Soldiers of India](//assets/img/blog/brave-india-soldiers.png)
+![Brave Soldiers of India](/assets/img/blog/brave-india-soldiers.png)
 
 I use Vedic (Sidereal) horoscope for Accurate timing and analysis, according to Lahiri Ayanamsa (Chitra paksha), using sidereal solar years of 360, Analysis as per Parasara system and Timing using Vimshottari Dasha system and Samaya Amsa or Kaala or Naadi timing technique.
 

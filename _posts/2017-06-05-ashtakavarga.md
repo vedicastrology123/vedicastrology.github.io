@@ -51,7 +51,7 @@ Ashtakavarga system deals with transit (Gochara) of Grahas (Planets) in Bhavas (
 
 ** Ashtakavarga is done for each graha and also a cumulative Ashtakavarga called "Sarva Ashtakavarga". The total sum of Sarva Ashtakavarga on all 12 bhavas is 337.
 
-![Ashtakavarga](//assets/img/blog/ashtakavarga.png)
+![Ashtakavarga](/assets/img/blog/ashtakavarga.png)
 
 ### To start with
 
