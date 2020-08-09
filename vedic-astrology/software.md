@@ -4,7 +4,7 @@ title: Best Software
 sidebar_link: true
 ---
 
-**[Jagannatha Hora is the best Free Vedic Astrology software]**(https://www.vedicastrologer.org/jh/).
+[**Jagannatha Hora is the best Free Vedic Astrology software**](https://www.vedicastrologer.org/jh/).
 
 **Recommended by Steve Hora, Vedic Astrologer**, Researcher and Subject Matter Expert (SME) on Vedic, Naadi and Mundane Astrology.
 
