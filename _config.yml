@@ -9,3 +9,4 @@ author:
   twitter: AstrologyOrbit
 description: 'by <a href="https://stevehora.com" target="_blank">Steve Hora</a>.'
 url: https://stevehora.com
+sass_dir: _scss
