@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books
-sidebar_link: true
+sidebar_link: false
 ---
 
 ## by B.V. Raman on Amazon
