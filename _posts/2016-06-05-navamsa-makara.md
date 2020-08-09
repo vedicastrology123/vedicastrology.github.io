@@ -13,7 +13,7 @@ tags:
 lead: Vedic Astrology by Steve Hora
 lastmod: latest 
 path:
-  - "https://stevehora.com/blog/navamsa-makara/"
+  - "https://stevehora.com/navamsa-makara/"
 keywords:
   - "Navamsa"
   - "Makara"
@@ -202,7 +202,7 @@ In my chart, my 9th and 12th are empty. But 5th has exalted Chandra, Kumbha nava
 
 So it bestows me with high intellectual, a sharp brain, intuitiveness and a soft person. My studies into astrology is decided by Kumbha Shani navamsa. 5th house is governed by Anahata chakra, with creativity, so my research and finding of accurate timing using NadiAmsa, derived from Nadi’s of TamilNadu.
 
-![Chakras and Horoscope ](/assets/img/blog/chakras.jpg)
+![Chakras and Horoscope ](/assets/img/chakras.jpg)
 
 ### More ...
 

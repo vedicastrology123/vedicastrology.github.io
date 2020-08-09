@@ -8,7 +8,7 @@ type: "post"
 categories: 
   - "Horoscope"
 path:
-  - "https://stevehora.com/blog/astrology-temple/"
+  - "https://stevehora.com/astrology-temple/"
 tags:
   - "Predictions"
   - "Astrology"

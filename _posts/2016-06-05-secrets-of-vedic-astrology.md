@@ -14,7 +14,7 @@ tags:
 lead: Vedic Astrology by Steve Hora
 lastmod: latest 
 path:
-  - "https://stevehora.com/blog/secrets-of-vedic-astrology/"
+  - "https://stevehora.com/secrets-of-vedic-astrology/"
 keywords:
   - "Secrets of Vedic Astrology"
 ---

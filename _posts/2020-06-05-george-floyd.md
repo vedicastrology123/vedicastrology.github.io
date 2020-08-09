@@ -14,7 +14,7 @@ tags:
 lead: Vedic Astrology by Steve Hora
 lastmod: latest 
 path:
-  - "https://stevehora.com/blog/george-floyd/"
+  - "https://stevehora.com/george-floyd/"
 keywords:
   - "George Floyd"
   - "Black Lives Matter"

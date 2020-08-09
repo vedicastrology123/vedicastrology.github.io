@@ -1,7 +1,7 @@
 ---
 title: "CoronaVirus"
 date: 2020-04-07T12:52:36+06:00
-image: /assets/img/blog/astrology-1.png
+image: /assets/img/astrology-1.png
 author: Steve Hora
 description : "Vedic Astrology - Jyotish Steve Hora Natal Mundane Astrology Horoscope Reading Predictions CoronaVirus"
 type: "featured"
@@ -13,7 +13,7 @@ tags:
 lead: Vedic Astrology by Steve Hora
 lastmod: latest 
 path:
-  - "https://stevehora.com/blog/coronavirus/"
+  - "https://stevehora.com/coronavirus/"
 keywords:
   - "Corona Virus"
   - "Steve Hora"
@@ -36,7 +36,7 @@ Vedic horoscope is made according to Lahiri Ayanamsa (Chitra paksha), using side
 
 I proceed to read the horoscope as per Parasara system and Timing using Vimshottari Dasha system and Samaya Amsa or Kaala timing technique.
 
-![Horoscope of first coronavirus in China](/assets/img/blog/covid.png)
+![Horoscope of first coronavirus in China](/assets/img/covid.png)
 
 Guru (Jupiter) the ascendant or lagna lord is in his own house, but eclipsed by Ketu-Rahu axis. Ketu does NOT like Guru.
 
@@ -64,6 +64,6 @@ When in Aquarius, Mars will again try to harm Saturn (People of the world), but 
 
 ##### More ...
 
-[Rat Metal Chinese Year 2020 predictions](/blog/new-world-order/)
+[Rat Metal Chinese Year 2020 predictions](/new-world-order/)
 
-[Astrological predictions on China](/blog/china/)
+[Astrological predictions on China](/china/)

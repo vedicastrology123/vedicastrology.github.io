@@ -12,7 +12,7 @@ tags:
   - "Astrology"
 lead: Vedic Astrology by Steve Hora
 path:
-  - "https://stevehora.com/blog/bhrigu-bindu/"
+  - "https://stevehora.com/bhrigu-bindu/"
 lastmod: latest 
 keywords:
   - "Bhrigu Bindu"

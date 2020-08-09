@@ -1,7 +1,7 @@
 ---
 title: "USA Corona"
 date: 2020-04-27T10:52:36+06:00
-image: /assets/img/blog/astrology-4.jpg
+image: /assets/img/astrology-4.jpg
 author: Steve Hora
 description : "Vedic Astrology - Jyotish Steve Hora Natal Mundane Astrology Horoscope Reading Predictions Coronavirus"
 type: "featured"
@@ -13,18 +13,18 @@ tags:
 lead: Vedic Astrology by Steve Hora
 lastmod: latest 
 path:
-  - "https://stevehora.com/blog/usa-corona/"
+  - "https://stevehora.com/usa-corona/"
 keywords:
   - "Virus"
 ---
 
 ## When the Coronavirus Pandemic will end in USA and will solve it?
 
-![USA Independence Birth data](/assets/img/blog/usa-independence1.png)
+![USA Independence Birth data](/assets/img/usa-independence1.png)
 
 Below is the Sidereal (Vedic) Horoscope of USA declaration of Independence.
 
-![USA Independence Horoscope](/assets/img/blog/usa-country-independence.png)
+![USA Independence Horoscope](/assets/img/usa-country-independence.png)
 
 In mundane astrology, when dealing with countries, it is very important to see, the 1st lord, its children 5th house (People), Relationship 7th house, 6th house of Diseases and 8th from 6th for Cure (Vaccine).
 
@@ -47,7 +47,7 @@ Democratic countries ruled by Saturn will help out America. Saturn is looking at
 
 8th from 6th is the cure (a vaccine), which will be available by Sep 20 and by Nov 20th, 2020.
 
-![USA Independence Horoscope](/assets/img/blog/time-for-cure.png)
+![USA Independence Horoscope](/assets/img/time-for-cure.png)
 
 ### More ...
 

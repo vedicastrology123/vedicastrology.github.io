@@ -13,7 +13,7 @@ tags:
 lead: Vedic Astrology by Steve Hora
 lastmod: latest 
 path:
-  - "https://stevehora.com/blog/tithi-information/"
+  - "https://stevehora.com/tithi-information/"
 keywords:
   - "Tithi Information"
 ---

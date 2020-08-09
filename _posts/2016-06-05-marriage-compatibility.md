@@ -13,7 +13,7 @@ tags:
 lead: Vedic Astrology by Steve Hora
 lastmod: latest 
 path:
-  - "https://stevehora.com/blog/marriage-compatibility/"
+  - "https://stevehora.com/marriage-compatibility/"
 keywords:
   - "Horoscope Compatibility for Marriage"
   - "Marriage Compatibility"

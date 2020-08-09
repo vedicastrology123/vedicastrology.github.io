@@ -13,7 +13,7 @@ tags:
 lead: Vedic Astrology by Steve Hora
 lastmod: latest 
 path:
-  - "https://stevehora.com/blog/case-studies/"
+  - "https://stevehora.com/case-studies/"
 keywords:
   - "Case Studies in Astrology"
 ---

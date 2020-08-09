@@ -12,7 +12,7 @@ tags:
   - "Astrology"
 lead: Vedic Astrology by Steve Hora
 path:
-  - "https://stevehora.com/blog/birth-chart/"
+  - "https://stevehora.com/birth-chart/"
 lastmod: latest 
 keywords:
   - "How to read Lagna Chart"
