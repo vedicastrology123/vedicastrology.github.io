@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 ## Enrich and Optimize your life with Vedic Astrology
 
-Karma plays an important role in one's destiny or fate. Free Will has its part also. Read more below ...
+Karma plays an important role in one's destiny or fate. Free Will has its part also.
 
 Vedic Astrology captures this Karma of Yours in your Horoscope.
 
@@ -15,18 +15,18 @@ Vedic Astrology is one of the Vedas, the ancient Hindu scriptures. In Vedic astr
 
 Vedic and Western astrology have some similarities, including the 12 signs of the zodiac, but Vedic astrology emphasizes the rising sign at the precise moment of birth rather than the 30-day sun sign.
 
-In Vedic astrology, a master astrologer, known as a Jyotish, uses a variety of charts to further detailed reading an individual's horoscope.
+In Vedic astrology, a master astrologer, known as a **Jyotish**, uses a variety of charts to further detailed reading an individual's horoscope.
 
-Vedic (Sidereal) horoscope is made according to Precession ( True Lahiri Ayanamsa - Chitra paksha), using sidereal solar years of 360.
-Birth chart analysis is as per Parasara system and Timing using Vimshottari Dasha system and Samaya Amsa or Kaala or Naadi timing technique.
+**Vedic (Sidereal) horoscope** is made according to **Precession ( True Lahiri Ayanamsa - Chitra paksha)**, using sidereal solar years of 360.
+Birth chart analysis is as per Parasara system and Timing using **Vimshottari Dasha system** and **Samaya Amsa or Kaala or Naadi** timing technique.
 
 #### What is in it for me
 
-** With your accurate Date of Birth, Place and Time - a horoscope is made using pure astronomical data of planets.
+**With your accurate Date of Birth, Place and Time - a horoscope** is made using pure astronomical data of planets.
 
-A horoscope has 12 houses or parts which govern different aspects of your life. You can read about that at [12 Houses of Vedic Astrology](https://stevehora.com/blog/vedic-astrology-meaning/).
+A horoscope has **12 houses** or parts which govern different aspects of your life. You can read about that at [12 Houses of Vedic Astrology](https://stevehora.com/blog/vedic-astrology-meaning/).
 
-Each house significance can be enriched by knowing its strength, weakness, life events for that house and its good and bad time.
+Each **house significance** can be enriched by knowing its strength, weakness, life events for that house and its good and bad time.
 
 With free will of yours, you can Enjoy the good strength in good time.
 
@@ -44,9 +44,9 @@ We can modify, suffer, enjoy, deny, postpone, BUT we cannot escape karmic effect
 
 **Life is just Space, Energy and Time, like this Universe**
 
-I read your horoscope for
+Your horoscope is read for
 
-  * Strength and Weakness
+  **Strength and Weakness**
 
   * When the life events will happen and how your perspective is, as of now and thereafter.
 
@@ -66,10 +66,10 @@ Or one can absolve all these Karmas, like Lord Buddha did, and attain Enlightenm
 
 ##### Astrological Quote
 
-ஞாலங் கருதினுங் கைகூடுங் காலம் கருதி இடத்தாற் செயின்
+**ஞாலங் கருதினுங் கைகூடுங் காலம் கருதி இடத்தாற் செயின்**
 
 Choose proper time and place and act, even the world, you will win with ease.
 
-----from Thirukural (484 couplet) by Tamil Saint ThiruValluvar (1st century BC)
+----from Thirukural (484 couplet) by **Tamil Saint ThiruValluvar (1st century BC)**
 
                                  **So be it. Tathaastu.**
