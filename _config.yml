@@ -10,7 +10,7 @@ author:
 description: 'by <a href="https://stevehora.com" target="_blank">Steve Hora</a>.'
 url: https://stevehora.com
 sidebar_home_link:  true
-paginate: 15
+paginate: 45
 paginate_path: '/blog/page:num'
 sidebar_blog_link: '/blog'
 
