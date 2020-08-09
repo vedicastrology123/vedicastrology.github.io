@@ -1,7 +1,7 @@
 ---
 title: "Guru Budha"
 date: 2020-07-31T09:00:00+05:30
-image: images/blog/astrology-4.jpg
+image: /assets/img/blog/astrology-4.jpg
 author: Steve Hora
 description : "Vedic Astrology - Jyotish Steve Hora Natal Mundane Astrology Horoscope Reading Predictions Budha Guru"
 type: "featured"

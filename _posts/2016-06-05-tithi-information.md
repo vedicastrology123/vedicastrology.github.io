@@ -1,7 +1,7 @@
 ---
 title: "Tithi Information"
 date: 2020-04-07T12:52:36+06:00
-image: "images/vaashicon.png"
+image: "/assets/img/vaashicon.png"
 author: Steve Hora
 description : "Vedic Astrology - Jyotish Steve Hora Natal Mundane Astrology Horoscope Reading Predictions Tithi Information"
 type: "post"

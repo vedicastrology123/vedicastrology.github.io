@@ -1,7 +1,7 @@
 ---
 title: "New World Order"
 date: 2020-04-07T12:52:36+06:00
-image: images/blog/astrology-4.jpg
+image: /assets/img/blog/astrology-4.jpg
 author: Steve Hora
 description : "Vedic Astrology - Jyotish Steve Hora Natal Mundane Astrology Horoscope Reading Predictions RatMetal 2020"
 type: "featured"
@@ -34,7 +34,7 @@ From this chart one can read the predictions for the People of China.
 ### Chart Analysis and Mundane Predictions
 
 
-![Metal Rat](/images/blog/metalratyear2020.png)
+![Metal Rat](//assets/img/blog/metalratyear2020.png)
 
 
 The Vedic horoscope is made according to Lahiri Ayanamsa (Chitra paksha), using sidereal solar years of 360, Vimshottari Dasha.

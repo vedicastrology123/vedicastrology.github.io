@@ -2,7 +2,7 @@
 title: "Mahatma Gandhi"
 date: 2019-11-24T14:51:12+06:00
 author: Steve Hora
-image: images/blog/mg.jpg
+image: /assets/img/blog/mg.jpg
 description : "Vedic Astrology - Jyotish Steve Hora Natal Mundane Astrology Horoscope Reading Predictions Mahatma Gandhi"
 type: "featured"
 categories: 
@@ -31,7 +31,7 @@ The Vedic horoscope is made according to Lahiri Ayanamsa (Chitra paksha), using 
 
 I proceed to read the horoscope as per Parasara system and Timing using Vimshottari Dasha system and Samaya Amsa or Kaala timing technique.
 
-![Mahatma Gandhi](/images/blog/mahatma-gandhi.png)
+![Mahatma Gandhi](//assets/img/blog/mahatma-gandhi.png)
 
 Lagna lord Shukra is in his own house, namely Thula, creating a Malavya Yoga.
 

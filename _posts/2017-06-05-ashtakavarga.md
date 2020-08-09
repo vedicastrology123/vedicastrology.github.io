@@ -1,7 +1,7 @@
 ---
 title: "Ashtakavarga"
 date: 2020-06-02T12:52:36+06:00
-image: "images/vaashicon.png"
+image: "/assets/img/vaashicon.png"
 author: Steve Hora
 description : "Vedic Astrology - Jyotish Steve Hora Natal Mundane Astrology Horoscope Reading Predictions Ashtakavarga"
 type: "post"
@@ -51,7 +51,7 @@ Ashtakavarga system deals with transit (Gochara) of Grahas (Planets) in Bhavas (
 
 ** Ashtakavarga is done for each graha and also a cumulative Ashtakavarga called "Sarva Ashtakavarga". The total sum of Sarva Ashtakavarga on all 12 bhavas is 337.
 
-![Ashtakavarga](/images/blog/ashtakavarga.png)
+![Ashtakavarga](//assets/img/blog/ashtakavarga.png)
 
 ### To start with
 

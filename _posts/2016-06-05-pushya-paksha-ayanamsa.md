@@ -1,7 +1,7 @@
 ---
 title: "Pushya Paksha Ayanamsa"
 date: 2020-06-02T12:52:36+06:00
-image: images/blog/ppa.jpg
+image: /assets/img/blog/ppa.jpg
 author: Steve Hora
 description : "Vedic Astrology - Jyotish Steve Hora Natal Mundane Astrology Horoscope Reading Predictions Pushya Paksha Ayanamsa"
 type: "featured"
@@ -21,7 +21,7 @@ keywords:
 
 ## Great Astrologer PVR Narasimha Rao, his free and best Jagannatha Hora software and his Pushya-paksha Ayanamsa
 
-![Pushya Paksha Ayanamsa ](/images/blog/ayan.jpg)
+![Pushya Paksha Ayanamsa ](//assets/img/blog/ayan.jpg)
 
 
 ### Jagannatha Hora

@@ -1,7 +1,7 @@
 ---
 title: "Marriage Compatibility"
 date: 2020-04-07T12:52:36+06:00
-image: "images/vaashicon.png"
+image: "/assets/img/vaashicon.png"
 author: Steve Hora
 description : "Matrimony matching with Horoscope Compatibility for Marriage Vedic Astrology"
 type: "post"

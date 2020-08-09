@@ -1,7 +1,7 @@
 ---
 title: "Secrets of Varma"
 date: 2020-04-07T12:52:36+06:00
-image: "images/vaashicon.png"
+image: "/assets/img/vaashicon.png"
 author: Steve Hora
 description : "Vedic Astrology - Jyotish Steve Hora Natal Mundane Astrology Horoscope Reading Predictions Varma points"
 type: "post"
@@ -26,7 +26,7 @@ Varma or Marma points are based on the movement of Prana Energy in a human body.
 ## Amirtha Nilai (Prana's location)
 On each tithi day the prana moves as below
 
-![Tithi - Marma point](/images/blog/tithi.png)
+![Tithi - Marma point](//assets/img/blog/tithi.png)
 
 Each person is born with Prana concentrated in a place in the human body as per the
 birth tithi.
