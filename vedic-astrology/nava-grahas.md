@@ -18,7 +18,7 @@ The 9 planets are: **Soorya (Sun), Chandra (Moon), Mangala or Kuja or Sevvai (Ma
 * Vedic Astrology birth chart in tamil Nadi leaf
 * Vedic Astrology blog, course and classes
 * Marriage or matrimony compatibility
-* cissariation birth
+* C-Section birth
 * Vedic Astrology dasha calculator
 * Vedic Astrology demystified
 * Vedic Astrology divisional charts namely d-9 chart
