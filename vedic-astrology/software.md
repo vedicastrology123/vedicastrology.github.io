@@ -31,7 +31,7 @@ I challenge the status quo, ad-literam and anecdotal of vedic and western astrol
 (This quality of mine is due to Chandra exalted in Vrishabha and Makara Lagna Shani and Ketu sitting in Abhijit nakshatra).
 
 #### Astrological Quote
-ஞாலங் கருதினுங் கைகூடுங் காலம் கருதி இடத்தாற் செயின்
+**ஞாலங் கருதினுங் கைகூடுங் காலம் கருதி இடத்தாற் செயின்**
 
 Choose proper time and place and act, even the world, you will win with ease.
 
