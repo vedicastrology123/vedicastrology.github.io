@@ -55,7 +55,7 @@ If this is as per your computer-modern generated horoscope, you have your fate a
 It is still a mystery about how without any birth details, a palm leaf has your chart, written long long ago.
 
 Pranam and Hats off to Sage Agasthiya, the venerated Tamil Saptha Rishi and a great Sishiya of Lord Shiva.
-Om Nama Shivaya.
+**Om Nama Shivaya**.
 
 #### Life Reading
 
@@ -72,9 +72,7 @@ This will contain your life events and it will go till your death.
 #### Kandam 1 - General
 This reading contains the name of the Nadi seeker, his/her life span, how she/he is going to live this life, his/her identity, the name of his/her spouse, names of his/her 
 
-parents, details about the present profession, his/her brothers, sisters and children. This chapter will give a summary of future predictions for all the 12 houses in his/her 
-
-horoscope based on the planetary positions at the time of birth as mentioned in the Nadi leaf.
+parents, details about the present profession, his/her brothers, sisters and children. This chapter will give a summary of future predictions for all the 12 houses in his/her horoscope based on the planetary positions at the time of birth as mentioned in the Nadi leaf.
 
 A sample "General Chapter" is below, with few verses from it. The chart is described in old tamil in a very clear way.
 
@@ -99,45 +97,31 @@ This chapter has details about the seeker's of children. Birth, lifespan, achiev
 remedial measures for any problems of children. There are also predictions about whether the Nadi seeker will or will not have children and details about the same.
  
 #### Kandam 6 - Disease, Debt and Litigation
-The 6th Kandam has details about Diseases, their causes, duration and the extent of damage it has on the life of the Nadi Seeker. It also provides information regarding Enemies, 
-
-Litigation, their causes and duration of suffering on account of the above. It also suggests remedial measures for avoidance and positive measures for achieving success.
+The 6th Kandam has details about Diseases, their causes, duration and the extent of damage it has on the life of the Nadi Seeker. It also provides information regarding Enemies, Litigation, their causes and duration of suffering on account of the above. It also suggests remedial measures for avoidance and positive measures for achieving success.
  
 #### Kandam 7 – Matrimony, Spouse and Marriage
-This chapter gives information about the Nadi seeker's matrimonial details. Name of spouse and the sacred time that is apt for marriage etc. Causes and Measures for delay in 
-
-marriage, Future of the marriage, aspects of compatibility and conflicts if any with the spouse etc.
+This chapter gives information about the Nadi seeker's matrimonial details. Name of spouse and the sacred time that is apt for marriage etc. Causes and Measures for delay in marriage, Future of the marriage, aspects of compatibility and conflicts if any with the spouse etc.
  
 #### Kandam 8 - Life Span
 This chapter deals with ones' life span, about accidents if any might occur, court litigation, etc.
  
 #### Kandam 9 - Property, Father, spiritual inclinations
-This chapter gives information about the Nadi seeker's ancestral property, about his/her father, about your accruing of wealth; it also deals with worshipping places, spiritual 
-
-inclinations if any.
+This chapter gives information about the Nadi seeker's ancestral property, about his/her father, about your accruing of wealth; it also deals with worshipping places, spiritual inclinations if any.
  
 #### Kandam 10 – Business
-The tenth Kandam deals with your business life, it tells about what type of business is suited for you, or which type of business shall fetch you ample profits, losses if any, 
-
-etc.
+The tenth Kandam deals with your business life, it tells about what type of business is suited for you, or which type of business shall fetch you ample profits, losses if any, etc.
  
 #### Kandam 11 - Conveyance, Second Marriage
 This chapter gives information about the way in which you will gain any benefit through any kind of conveyance like cars, two-wheelers, etc and about your second marriage/wife.
  
 #### Kandam 12 - Expenditure, Foreign Connections, Next birth
-This chapter gives information about your expenditure of money. That is about the way in which you have spent your money, the way in which it happened, it also explains about 
-
-Moksha or heavenly status, any monetary benefits, higher status arising from foreign tours and foreign contacts. It also deals with your next birth that is where you will be 
-
-born, what will be your living conditions, etc.
+This chapter gives information about your expenditure of money. That is about the way in which you have spent your money, the way in which it happened, it also explains about Moksha or heavenly status, any monetary benefits, higher status arising from foreign tours and foreign contacts. It also deals with your next birth that is where you will be born, what will be your living conditions, etc.
  
 #### Kandam 13 - Previous Birth and Remedies (Shanti Kandam)
 This chapter deals with the history of last birth, last birth sins, demerits accrued in present birth due to last birth sins and remedial measures.
  
 #### Kandam 14 – Upadesh of Mantras (Deeksha Kandam)
-This chapter deals with holy mantras (sacred chants) to be recited, and the holy materials to be kept in prayer room. Subjugation of enemies and use of mantra to prevail over 
-
-them, litigation, bad and evil effects, etc.
+This chapter deals with holy mantras (sacred chants) to be recited, and the holy materials to be kept in prayer room. Subjugation of enemies and use of mantra to prevail over them, litigation, bad and evil effects, etc.
  
 #### Kandam 15 (Naadi Shastra Chapter 15) – Gnanna Kandam (Spiritual Life)
 This chapter deals with Development of spirituality, the possibility, of attaining wisdom and God. The Guru of preceptor, from whom to get wisdom etc.,
