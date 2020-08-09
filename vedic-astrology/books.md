@@ -14,8 +14,6 @@ sidebar_link: true
 * Three Hundred Important Combinations
 * Graha and Bhava Balas
 
-###### Contact us
-
 Write to us at **vedicastrology123 at gmail dot com** to know more about Vedic Astrology and listed below
 
 * Vedic Astrology books pdf and articles
